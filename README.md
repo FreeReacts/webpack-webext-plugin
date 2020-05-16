@@ -3,7 +3,7 @@
 a small Webpack plugin to integrate web-ext commands into a web-pack build.
 
 ## Installation
-`npm i -D rpl/webpack-webext-plugin`
+`npm i -D cashewnuts/webpack-webext-plugin`
 
 _In webpack.config.js_
 ```javascript
